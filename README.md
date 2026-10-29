@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi, I'm Spencer 👋
 
-<!--
-**SpencerFrangou/SpencerFrangou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High school student doing cancer research in the **Zhang Lab** at the
+**University of Toledo** (Department of Cell and Cancer Biology). I'm interested
+in how breast cancer spreads, and in the computational side of making sense of
+tumor data.
 
-Here are some ideas to get you started:
+**What I'm working on**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧬 Breast cancer metastasis and tumor transcriptomics
+- 🔬 Targeted RNA panels (DriverMap) and separating tumor signal from host signal in xenografts
+- 📊 Reproducible analysis pipelines in R and Python
+
+**A project I built**
+
+- [**XenoPanel**](https://github.com/SpencerFrangou/XenoPanel) — a
+  configuration-driven pipeline for targeted transcriptomic panels: species
+  cross-reactivity masking, differential expression, a heritable/environmental
+  decomposition, and entropy & pathway analysis.
+
+**Tools I use**
+
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-1f3b4d)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+📍 Toledo, OH · always happy to learn — feel free to look through my repositories.
