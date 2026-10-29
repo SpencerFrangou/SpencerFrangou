@@ -8,7 +8,7 @@ tumor data.
 **What I'm working on**
 
 - 🧬 Breast cancer metastasis and tumor transcriptomics
-- 🔬 Targeted RNA panels (DriverMap) and separating tumor signal from host signal in xenografts
+- 🔬 Targeted RNA panels and separating tumor signal from host signal in xenografts
 - 📊 Reproducible analysis pipelines in R and Python
 
 **A project I built**
